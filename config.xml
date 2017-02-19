@@ -2,17 +2,17 @@
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
         xmlns:android = "http://schemas.android.com/apk/res/android"
-        id        = "com.moodle.moodlemobile"
+        id        = "ae.uof.ac.sls"
         versionCode = "20160"
         version   = "3.2.0">
-    <name>Moodle Mobile</name>
+    <name>Moodle UOF</name>
 
     <description>
-        Moodle Mobile official app
+       UOF Moodle Mobile official app
     </description>
 
     <author href="http://uof.ac.ae" email="basil@uof.ac.ae">
-        Moodle Pty Ltd
+        basil
     </author>
 
     <gap:config-file platform="ios" parent="CFBundleShortVersionString">
