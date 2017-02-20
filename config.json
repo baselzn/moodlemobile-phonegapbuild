@@ -9,8 +9,6 @@
     "wsservice" : "moodle_mobile_app",
     "wsextservice" : "local_mobile",
     "presets" : {"url": "http://sls.uof.ac.ag", "username": "admin"},
-    "sync_ws_on" : true,
-    "sync_css_on" : true,
     "gcmpn": "694767596569",
     "customurlscheme": "moodlemobile"
 }
